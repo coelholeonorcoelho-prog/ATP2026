@@ -6,7 +6,7 @@ Resumo: O Trabalho de casa dado na primeira aula teórico-prática tem como intu
 
 Lista de Resultados: Nível 10 - https://blockly.games/maze?lang=pt&level=10&&skin=0#mq6akm; 
 
-Desenho do barco à vela - https://blockly.games/turtle?lang=pt&level=10#y4qwrm
+                     Desenho do barco à vela - https://blockly.games/turtle?lang=pt&level=10#y4qwrm
 
 
 
