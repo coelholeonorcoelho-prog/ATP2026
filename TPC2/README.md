@@ -1,7 +1,6 @@
 Título: Trabalho para casa 1
 
-Autor: Leonor Fernandes Coelho; ID: 113460; Foto: 
-
+Autor: Leonor Fernandes Coelho; ID: 113460; Foto: ![Uploading image.png…]()
 
 Resumo: 
 
