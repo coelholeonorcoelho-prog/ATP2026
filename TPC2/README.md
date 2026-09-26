@@ -2,6 +2,7 @@ Título: Trabalho para casa 1
 
 Autor: Leonor Fernandes Coelho; ID: 113460; Foto: 
 
+
 Resumo: 
 
 O trabalho de casa da segunda semana consistiu na implementação de um jogo em Python denominado “Adivinha o número”. O programa tinha de incluir duas modalidades: na primeira, o computador escolher aleatoriamente um número entre 0 e 100 e o utilizador tenta adivinhá-lo; na segunda, é o utilizador que pensa num número e o computador tenta descobri-lo.
