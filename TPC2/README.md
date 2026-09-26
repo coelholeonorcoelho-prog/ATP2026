@@ -11,5 +11,4 @@ Em ambas as modalidades, quem tenta adivinhar deve responder utilizando apenas a
 
 Para desenvolver o trabalho, implementei inicialmente cada modalidade em separado, garantindo que ambas funcionavam corretamente. Posteriormente, integrei as duas versões num único programa, adicionando um menu inicial que permite ao utilizador escolher qual das modalidades pretende jogar.
 
-[Jogo]: [Abrir no VS Code](https://img.shields.io/badge/Abrir%20no-VS%20Code%20Desktop-007ACC?logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/coelholeonorcoelho-prog/ATP2026.git)
-
+[Jogo]: [Abrir no VS Code](https://img.shields.io/badge/Abrir%20no-VS%20Code%20Desktop-007ACC?logo=visualstudiocode&logoColor=white)]
