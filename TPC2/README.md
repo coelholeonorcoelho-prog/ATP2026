@@ -11,4 +11,4 @@ Em ambas as modalidades, quem tenta adivinhar deve responder utilizando apenas a
 
 Para desenvolver o trabalho, implementei inicialmente cada modalidade em separado, garantindo que ambas funcionavam corretamente. Posteriormente, integrei as duas versões num único programa, adicionando um menu inicial que permite ao utilizador escolher qual das modalidades pretende jogar.
 
-[Jogo]: 
+[Jogo]: [Abrir no VS Code Web](https://github.dev/coelholeonorcoelho-prog/ATP2026/blob/main/TPC2/adivinhaonumero.ipynb)
