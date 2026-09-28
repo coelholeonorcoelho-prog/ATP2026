@@ -11,7 +11,7 @@ Em ambas as modalidades, quem tenta adivinhar deve responder utilizando apenas a
 
 Para desenvolver o trabalho, implementei inicialmente cada modalidade em separado, garantindo que ambas funcionavam corretamente. Posteriormente, integrei as duas versões num único programa, adicionando um menu inicial que permite ao utilizador escolher qual das modalidades pretende jogar.
 
-## Código do jogo: Modalidade 1 + 2: O jogo pode ter 2 modalidades: computador pensa num número (entre 0 e 100), utilizador tenta adivinhar; ou, o utilizador pensa num número (entre 0 e 100) e o computador tenta adivinhar.
+## Código do jogo: Modalidade 1 + 2
 
 print("O jogo consiste em a pessoa adivinhar o número que o computador está a pensar e dizer em quantas tentativas tal se sucedeu, e vice-versa.")
 print(" Apenas podes responder às perguntas do computador com maior, menor ou certo.")
