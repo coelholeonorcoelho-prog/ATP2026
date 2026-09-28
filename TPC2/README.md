@@ -14,39 +14,65 @@ Para desenvolver o trabalho, implementei inicialmente cada modalidade em separad
 ## Código do jogo: Modalidade 1 + 2
 
 print("O jogo consiste em a pessoa adivinhar o número que o computador está a pensar e dizer em quantas tentativas tal se sucedeu, e vice-versa.")
+
 print(" Apenas podes responder às perguntas do computador com maior, menor ou certo.")
+
 ordem=input("Pretende: 1-pensar no número ou 2-adivinhar?")
 
 sup = 100
+
 inf = 0
+
 x = 0
+
 testes = 0
 
 if ordem== "pensar" or ordem== "1":
+   
     pergunta= str()
+   
     certo= "certo"
+   
     while pergunta!= certo:
+        
         testes = testes + 1
+       
         x= int((sup+inf) / 2)
+       
         pergunta= input("O seu número é " + str(x) + "?")
+       
         if pergunta == "maior":
+         
             inf = x
+       
         else:
+        
             sup = x
+   
     print("O número pensado é " + str (x) + " e o computador advinhou o número em " + str(testes) + " tentativas")    
 
 elif ordem== "adivinhar" or ordem== "2":
+  
     import random
+   
     num = random.randint(0,100)
+   
     tentativas = 0
+   
     palpite = int(input("Qual achas que é o número?"))
+    
     while palpite != num:
+        
         tentativas = tentativas + 1
 
         if palpite < num:
+          
             print(f"O número é MAIOR que {palpite}!")
+       
         elif palpite > num:
+          
             print(f"O número é MENOR que {palpite}!")
+       
         palpite= int(input("Tenta outra vez:"))
 
     print (f"Acertaste! O número é {num} e adivinhaste o número em {tentativas} tentativas!")
