@@ -1,13 +1,13 @@
-#Trabalho para casa 3
+# Trabalho para casa 3
 
-#Autor:
-Leonor Fernandes Coelho; ID: 113460; Foto: image
+# Autor:
+Leonor Fernandes Coelho; ID: 113460; Foto: <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/5e4edb18-fa38-4f3d-8f86-349d77b1ea93" />
 
-#Resumo:
-O trabalho de casa da segunda semana consistiu na implementação de um jogo em Python denominado “Adivinha o número”. O programa tinha de incluir duas modalidades: na primeira, o computador escolher aleatoriamente um número entre 0 e 100 e o utilizador tenta adivinhá-lo; na segunda, é o utilizador que pensa num número e o computador tenta descobri-lo.
 
-Em ambas as modalidades, quem tenta adivinhar deve responder utilizando apenas as opções “certo”, “maior” ou “menor”. Quando o número é finalmente identificado, o programa deve terminar indicando o número correto e o número total de tentativas necessárias para chegar ao resultado.
+# Resumo:
+O trabalho de casa da terceira semana consistiu na implementação em Python do jogo “Corrida para o 100”. O objetivo do jogo é atingir exatamente o valor de 100, somando alternadamente números entre 1 e 10 a um total que se inicia em 0. O programa deveria contemplar duas vertentes distintas: na primeira, o computador joga em primeiro lugar e segue uma estratégia que garante sempre a sua vitória; na segunda, o utilizador começa o jogo, onde cabe ao ao computador aproveitar eventuais jogadas fora da estratégia ideal para assumir o controlo e vencer a partida.
 
-Para desenvolver o trabalho, implementei inicialmente cada modalidade em separado, garantindo que ambas funcionavam corretamente. Posteriormente, integrei as duas versões num único programa, adicionando um menu inicial que permite ao utilizador escolher qual das modalidades pretende jogar.
+À semelhança do trabalho anterior, desenvolvi e testei inicialmente cada modalidade de forma independente. Após validar o comportamento da inteligência do jogo em ambas as vertentes, integrei as duas opções num único programa estruturado com um menu principal, permitindo ao utilizador escolher a ordem de jogo ou sair do programa.
 
-#Código do jogo:
+## Jogo:
+disponibilizei o ficheiro na pasta TPC3
