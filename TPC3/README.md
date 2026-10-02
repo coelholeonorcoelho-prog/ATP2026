@@ -10,4 +10,4 @@ O trabalho de casa da terceira semana consistiu na implementação em Python do 
 À semelhança do trabalho anterior, desenvolvi e testei inicialmente cada modalidade de forma independente. Após validar o comportamento da inteligência do jogo em ambas as vertentes, integrei as duas opções num único programa estruturado com um menu principal, permitindo ao utilizador escolher a ordem de jogo ou sair do programa.
 
 ## Jogo:
-disponibilizei o ficheiro na pasta TPC3
+Disponibilizei o ficheiro na pasta TPC3
