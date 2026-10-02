@@ -1,4 +1,4 @@
-# Trabalho para casa 1
+# Trabalho para casa 2
 
 ## Autor: 
 Leonor Fernandes Coelho; ID: 113460; Foto: <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/171af873-e99e-4d1f-925b-c969f72d1de3" />
